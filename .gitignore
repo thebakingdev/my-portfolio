@@ -1,0 +1,17 @@
+# Editor folders
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Node modules (for future)
+node_modules/
+
+# Backup or temp files
+*.bak
+*.tmp
